@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<stream xmlns="http://www.dvblogic.com">
+  <channel_handle>1</channel_handle>
+  <url>http://localhost:8101/dvblink/http_stream_1</url>
+</stream>

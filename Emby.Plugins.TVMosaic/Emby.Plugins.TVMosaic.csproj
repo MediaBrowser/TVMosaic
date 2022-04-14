@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<AssemblyName>Emby.Plugins.TVMosaic</AssemblyName>
+		<Company>Emby Team</Company>
+		<Description>TVMosaic Live TV plugin for Emby</Description>
+		<AssemblyVersion>2.0.0.0</AssemblyVersion>
+		<FileVersion>2.0.0.0</FileVersion>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<None Remove="thumb.png" />
+		<None Remove="web\tvmosaic.html" />
+		<None Remove="web\tvmosaic.js" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="thumb.png" />
+		<EmbeddedResource Include="web\tvmosaic.html" />
+		<EmbeddedResource Include="web\tvmosaic.js" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="mediabrowser.server.core" Version="4.7.0.32-beta" />
+		<PackageReference Include="System.Memory" Version="4.5.4" />
+	</ItemGroup>
+</Project>

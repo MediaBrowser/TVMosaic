@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<epg_searcher xmlns="http://www.dvblogic.com">
+  <channel_epg>
+    <channel_id>10540000</channel_id>
+    <dvblink_epg xmlns="http://www.dvblogic.com">
+      <program xmlns="http://www.dvblogic.com">
+        <program_id>4213</program_id>
+        <name>Les animaux de la 8</name>
+        <short_desc>Au programme, plusieurs sujets : "Les animaux de Noël", "Au plus près des animaux sauvages" : Elodie et Olivia partent en Rhône-Alpes à la découverte de la faune sauvage ! Elles se rendent dans trois grands parcs zoologiques aux animaux impressionnants : crocodiles, otaries, loups blancs ou encore chauves-souris géantes. Dans la Drôme, la Ferme aux Crocodiles accueille près de 350 espèces de reptiles.</short_desc>
+        <language>FRE</language>
+        <start_time>1450602000</start_time>
+        <duration>12300</duration>
+        <cat_special>true</cat_special>
+        <is_series>true</is_series>
+      </program>
+      <program xmlns="http://www.dvblogic.com">
+        <program_id>4212</program_id>
+        <name>D8 le JT</name>
+        <short_desc>Votre rendez-vous de l'information qui décrypte le monde qui nous entoure. Un journal synthétique et pédagogique qui raconte et décode l'actualité en un quart d'heure.</short_desc>
+        <language>FRE</language>
+        <start_time>1450614300</start_time>
+        <duration>300</duration>
+        <cat_news>true</cat_news>
+        <is_series>true</is_series>
+      </program>
+      <program xmlns="http://www.dvblogic.com">
+        <program_id>4211</program_id>
+        <name>Regards coupables</name>
+        <short_desc>Céleste a tout pour être heureuse : une carrière à succès, un séduisant petit ami et un appartement luxueux. Mais sa vie tourne au cauchemar lorsqu'elle devient la cible d'un voyeur menaçant. Elle commence à recevoir des colis ainsi que des coups de fil anonymes et prend peur. Quand elle découvre de la lingerie dans son lit, elle réalise que cet inconnu peut pénétrer dans son appartement sans commettre aucune effraction.</short_desc>
+        <language>FRE</language>
+        <start_time>1450614600</start_time>
+        <duration>6300</duration>
+        <cat_thriller>true</cat_thriller>
+        <is_series>true</is_series>
+      </program>
+      <program xmlns="http://www.dvblogic.com">
+        <program_id>4210</program_id>
+        <name>Passion impossible</name>
+        <short_desc>Ravie d'intégrer enfin l'école de médecine, Kate Walker voit ses projets remis en question par une grossesse imprévue. Sur ces entrefaites, son petit copain Paul périt tragiquement dans l'incendie d'une usine. La jeune femme est d'autant plus anéantie que son amour perdu est soupçonné d'avoir lui-même allumé le feu. Quatre ans ont passé. Kate élève sa petite fille Megan, avec David, un copain fidèle.</short_desc>
+        <language>FRE</language>
+        <start_time>1450620900</start_time>
+        <duration>6300</duration>
+        <cat_thriller>true</cat_thriller>
+        <is_series>true</is_series>
+      </program>
+      <program xmlns="http://www.dvblogic.com">
+        <program_id>4209</program_id>
+        <name>Pawn Stars</name>
+        <short_desc>Découvrez les activités du Gold &amp; Silver Shop, une société de prêteurs sur gages pas comme les autres. Les trois personnages clés Rick Harrison, Corey ainsi que son père Richard gèrent leur commerce de Las Vegas avec une main de fer. Qu'il s'agisse d'un alligator, de tableaux de maître, de montres de collectionneur, ou d'une dent en or les Gold achètent des objets plus ou moins loufoques. Mais ils n'acceptent de débourser que s'ils pensent revendre les objets à profit...</short_desc>
+        <language>FRE</language>
+        <start_time>1450627200</start_time>
+        <duration>14100</duration>
+        <cat_special>true</cat_special>
+        <is_series>true</is_series>
+      </program>
+    </dvblink_epg>
+  </channel_epg>
+</epg_searcher>

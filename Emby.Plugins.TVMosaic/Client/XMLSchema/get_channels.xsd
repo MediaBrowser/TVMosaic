@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.dvblogic.com" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="channels">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="channel">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="channel_id" type="xs:unsignedInt" />
+							<xs:element name="channel_dvblink_id" type="xs:unsignedInt" />
+							<xs:element name="channel_name" type="xs:string" />
+							<xs:element name="channel_type" type="xs:unsignedByte" />
+							<xs:element name="channel_number" type="xs:unsignedByte" />
+							<xs:element name="channel_subnumber" type="xs:unsignedByte" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

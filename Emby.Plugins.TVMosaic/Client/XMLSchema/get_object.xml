@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.dvblogic.com">
+  <containers xmlns="http://www.dvblogic.com"/>
+  <items xmlns="http://www.dvblogic.com">
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/9-10650000-1449406200</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f9-10650000-1449406200</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f9-10650000-1449406200</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>7278805964</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>RTS UN HD</channel_name>
+      <channel_number>1</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>9</schedule_id>
+      <schedule_name>Blue Bloods</schedule_name>
+      <schedule_series>true</schedule_series>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Blue Bloods</name>
+        <short_desc>Quand un officier est accusé de violences sur un suspect âgé de 14 ans, Frank voit son département mis sous la surveillance du maire. Pendant ce temps, Danny et Baez enquêtent sur le meurtre d'un trader de Wall Street, très endetté à cause de son addiction aux jeux.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f9-10650000-1449406200</image>
+        <start_time>1449405302</start_time>
+        <duration>4499</duration>
+        <cat_thriller>true</cat_thriller>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/9-10650000-1449408900</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f9-10650000-1449408900</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f9-10650000-1449408900</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>7281686312</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>RTS UN HD</channel_name>
+      <channel_number>1</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>9</schedule_id>
+      <schedule_name>Blue Bloods</schedule_name>
+      <schedule_series>true</schedule_series>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Blue Bloods</name>
+        <short_desc>À la suite du dîner entre Frank et l'avocat de la mafia Angelo Gallo, ce dernier est assassiné par balles dans un restaurant en plein centre-ville. Frank le sauve de peu. Pendant ce temps, Danny est appelé pour être juré dans un procès pour meurtre.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f9-10650000-1449408900</image>
+        <start_time>1449408001</start_time>
+        <duration>4500</duration>
+        <cat_thriller>true</cat_thriller>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/2-10650000-1449411600</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f2-10650000-1449411600</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f2-10650000-1449411600</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>7281885216</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>RTS UN HD</channel_name>
+      <channel_number>1</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>2</schedule_id>
+      <schedule_name>Body of proof</schedule_name>
+      <schedule_series>true</schedule_series>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Body of proof</name>
+        <short_desc>Une jeune fille est tuée dans un hôpital psychiatrique. Lorsque Megan et Tommy interrogent les autres patientes, l'une d'elle proclame que le meurtrier était venu pour la tuer elle. La légiste s'intéresse alors à l'histoire de cette jeune fille dont la petite soeur a été assassinée.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f2-10650000-1449411600</image>
+        <start_time>1449410701</start_time>
+        <duration>4500</duration>
+        <cat_thriller>true</cat_thriller>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/2-10650000-1449414300</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f2-10650000-1449414300</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f2-10650000-1449414300</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>7767578328</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>RTS UN HD</channel_name>
+      <channel_number>1</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>2</schedule_id>
+      <schedule_name>Body of proof</schedule_name>
+      <schedule_series>true</schedule_series>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Body of proof</name>
+        <short_desc>Suite à des tirs provoqués par un Marine chargé de la sécurité à bord, un avion s'écrase sur Philadelphie, entraînant un blackout dans toute la ville. Tandis que Megan et le Dr Stafford tentent d'éclaircir la situation auprès des victimes et des survivants, Sullivan est impliqué dans un accident de voiture à proximité du crash.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f2-10650000-1449414300</image>
+        <start_time>1449413401</start_time>
+        <duration>4800</duration>
+        <cat_thriller>true</cat_thriller>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/8-10650000-1449272400</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f8-10650000-1449272400</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f8-10650000-1449272400</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>11654954720</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>RTS UN HD</channel_name>
+      <channel_number>1</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>8</schedule_id>
+      <schedule_name>Destination finale 5</schedule_name>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Destination finale 5</name>
+        <short_desc>Dans ce cinquième épisode, la Mort est toujours aussi omniprésente et se déchaîne après qu'un homme soit victime d'une terrible prémonition, laquelle permet de sauver ses collègues de l'effondrement d'un pont suspendu. Ce groupe d'âmes innocentes n'était pas supposé survivre, et, dans une course terrifiante contre le temps, ces malheureux tentent frénétiquement de trouver le moyen d'échapper au sinistre agenda de la Mort.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f8-10650000-1449272400</image>
+        <start_time>1449271504</start_time>
+        <duration>7199</duration>
+        <cat_scifi>true</cat_scifi>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/5-10650000-1449440700</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f5-10650000-1449440700</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f5-10650000-1449440700</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>7277921988</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>RTS UN HD</channel_name>
+      <channel_number>1</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>5</schedule_id>
+      <schedule_name>New York Unité Spéciale</schedule_name>
+      <schedule_series>true</schedule_series>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>New York Unité Spéciale</name>
+        <short_desc>Toute l'équipe entame une course contre la montre afin de mettre la main sur des preuves tangibles, dispersées dans toute la ville, par un tueur en série qui prend un malin plaisir à se jouer d'eux. Les détectives doivent absolument arrêter l'assassin avant que celui-ci ne fasse d'autres victimes.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f5-10650000-1449440700</image>
+        <start_time>1449439802</start_time>
+        <duration>4499</duration>
+        <cat_thriller>true</cat_thriller>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/10-10810000-1449511200</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f10-10810000-1449511200</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f10-10810000-1449511200</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>311647788</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>CARTOON NETWORK</channel_name>
+      <channel_number>141</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>2</state>
+      <schedule_id>10</schedule_id>
+      <schedule_name>Ninjago</schedule_name>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Ninjago</name>
+        <short_desc>Une menace pèse sur le monde de Ninjago ! Lloyd Garmadon, le fils du Seigneur des Ténèbres, a libéré quatre ancestrales et redoutables tribus de serpents. Les ninjas devront poursuivre leur entrainement pour atteindre leur vrai potentiel, empecher les tribus serpents d'accomplir leur terrible vengeance, découvrir l'identité du Samourai X et découvrir qui est le ninja vert, ce mystérieux ninja dont la légende dit qu'il s'élèvera au-dessus de tous les autres pour sauver Ninjago...</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f10-10810000-1449511200</image>
+        <start_time>1449514380</start_time>
+        <duration>280</duration>
+        <cat_kids>true</cat_kids>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/6-10860000-1448221800</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f6-10860000-1448221800</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f6-10860000-1448221800</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>5863753652</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>HD1</channel_name>
+      <channel_number>30</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>6</schedule_id>
+      <schedule_name>Stephen King : la maison sur le lac</schedule_name>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Stephen King : la maison sur le lac</name>
+        <short_desc>Après la mort soudaine de sa femme, l'auteur de best sellers Mike Noonan ne pouvant surmonter sa douleur, décide se retirer dans leur chalet du Maine, en bord de lac. Là, il reçoit la visite d'étranges fantômes semblant tout droit sortis de ses pires cauchemars. Il comprend peu à peu que sa femme disparue tente d'établir le contact.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f6-10860000-1448221800</image>
+        <start_time>1448223118</start_time>
+        <duration>4684</duration>
+        <cat_scifi>true</cat_scifi>
+      </video_info>
+    </recorded_tv>
+    <recorded_tv xmlns="http://www.dvblogic.com">
+      <object_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F/7-10860000-1448226900</object_id>
+      <parent_id>e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8:E44367A7-6293-4492-8C07-0E551195B99F</parent_id>
+      <url>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aE44367A7-6293-4492-8C07-0E551195B99F%2f7-10860000-1448226900</url>
+      <thumbnail>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f7-10860000-1448226900</thumbnail>
+      <can_be_deleted>true</can_be_deleted>
+      <size>9750472232</size>
+      <creation_time>0</creation_time>
+      <channel_id/>
+      <channel_name>HD1</channel_name>
+      <channel_number>30</channel_number>
+      <channel_subnumber>0</channel_subnumber>
+      <state>3</state>
+      <schedule_id>7</schedule_id>
+      <schedule_name>Stephen King : la maison sur le lac</schedule_name>
+      <video_info xmlns="http://www.dvblogic.com">
+        <name>Stephen King : la maison sur le lac</name>
+        <short_desc>Après la mort soudaine de sa femme, l'auteur de best sellers Mike Noonan ne pouvant surmonter sa douleur, décide se retirer dans leur chalet du Maine, en bord de lac. Là, il reçoit la visite d'étranges fantômes semblant tout droit sortis de ses pires cauchemars. Il comprend peu à peu que sa femme disparue tente d'établir le contact.</short_desc>
+        <language>FRE</language>
+        <image>http://192.168.1.2:8101/dvblink/playback?object=e189d9ac-18e5-4c2f-88c8-3ebc41aa42d8%3aDA5F661E-540E-47B1-9DCC-3F40F5CB85CA%2f7-10860000-1448226900</image>
+        <start_time>1448226002</start_time>
+        <duration>7800</duration>
+        <cat_scifi>true</cat_scifi>
+      </video_info>
+    </recorded_tv>
+  </items>
+  <actual_count>9</actual_count>
+  <total_count>9</total_count>
+</object>

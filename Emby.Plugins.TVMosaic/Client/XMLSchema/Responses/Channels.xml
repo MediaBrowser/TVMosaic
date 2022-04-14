@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<channels xmlns="http://www.dvblogic.com">
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10650000</channel_id>
+    <channel_dvblink_id>10650000</channel_dvblink_id>
+    <channel_name>RTS UN HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>1</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>11020000</channel_id>
+    <channel_dvblink_id>11020000</channel_dvblink_id>
+    <channel_name>RTS DEUX HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>2</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10930000</channel_id>
+    <channel_dvblink_id>10930000</channel_dvblink_id>
+    <channel_name>TF1 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>3</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10680000</channel_id>
+    <channel_dvblink_id>10680000</channel_dvblink_id>
+    <channel_name>FRANCE 2 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>4</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10560000</channel_id>
+    <channel_dvblink_id>10560000</channel_dvblink_id>
+    <channel_name>FRANCE 3</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>5</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10740000</channel_id>
+    <channel_dvblink_id>10740000</channel_dvblink_id>
+    <channel_name>FRANCE 4</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>6</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10720000</channel_id>
+    <channel_dvblink_id>10720000</channel_dvblink_id>
+    <channel_name>FRANCE 5</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>7</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10710000</channel_id>
+    <channel_dvblink_id>10710000</channel_dvblink_id>
+    <channel_name>M6 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>8</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10640000</channel_id>
+    <channel_dvblink_id>10640000</channel_dvblink_id>
+    <channel_name>W9</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>9</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10920000</channel_id>
+    <channel_dvblink_id>10920000</channel_dvblink_id>
+    <channel_name>RTL9 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>10</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10980000</channel_id>
+    <channel_dvblink_id>10980000</channel_dvblink_id>
+    <channel_name>TMC</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>11</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10590000</channel_id>
+    <channel_dvblink_id>10590000</channel_dvblink_id>
+    <channel_name>ARTE HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>12</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10750000</channel_id>
+    <channel_dvblink_id>10750000</channel_dvblink_id>
+    <channel_name>LÉMAN BLEU</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>14</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>11030000</channel_id>
+    <channel_dvblink_id>11030000</channel_dvblink_id>
+    <channel_name>LA TÉLÉ HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>15</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10890000</channel_id>
+    <channel_dvblink_id>10890000</channel_dvblink_id>
+    <channel_name>CANAL ALPHA NE HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>17</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>11010000</channel_id>
+    <channel_dvblink_id>11010000</channel_dvblink_id>
+    <channel_name>CANAL ALPHA JU HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>18</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>11040000</channel_id>
+    <channel_dvblink_id>11040000</channel_dvblink_id>
+    <channel_name>BECURIOUS TV HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>20</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10540000</channel_id>
+    <channel_dvblink_id>10540000</channel_dvblink_id>
+    <channel_name>D8 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>21</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>11000000</channel_id>
+    <channel_dvblink_id>11000000</channel_dvblink_id>
+    <channel_name>D17</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>22</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10600000</channel_id>
+    <channel_dvblink_id>10600000</channel_dvblink_id>
+    <channel_name>AB1 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>23</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10910000</channel_id>
+    <channel_dvblink_id>10910000</channel_dvblink_id>
+    <channel_name>NT1</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>24</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10990000</channel_id>
+    <channel_dvblink_id>10990000</channel_dvblink_id>
+    <channel_name>NRJ 12</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>25</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>11050000</channel_id>
+    <channel_dvblink_id>11050000</channel_dvblink_id>
+    <channel_name>EUROSPORT FRANCE</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>27</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10770000</channel_id>
+    <channel_dvblink_id>10770000</channel_dvblink_id>
+    <channel_name>FRANCE Ô</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>29</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10860000</channel_id>
+    <channel_dvblink_id>10860000</channel_dvblink_id>
+    <channel_name>HD1 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>30</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10580000</channel_id>
+    <channel_dvblink_id>10580000</channel_dvblink_id>
+    <channel_name>6TER HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>31</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10570000</channel_id>
+    <channel_dvblink_id>10570000</channel_dvblink_id>
+    <channel_name>NUMÉRO 23 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>32</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10830000</channel_id>
+    <channel_dvblink_id>10830000</channel_dvblink_id>
+    <channel_name>CHÉRIE 25 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>33</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10970000</channel_id>
+    <channel_dvblink_id>10970000</channel_dvblink_id>
+    <channel_name>TV8 MONT BLANC</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>34</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10950000</channel_id>
+    <channel_dvblink_id>10950000</channel_dvblink_id>
+    <channel_name>BFM TV HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>37</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10660000</channel_id>
+    <channel_dvblink_id>10660000</channel_dvblink_id>
+    <channel_name>TVM 3</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>81</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10900000</channel_id>
+    <channel_dvblink_id>10900000</channel_dvblink_id>
+    <channel_name>MTV FRANCE HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>82</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10630000</channel_id>
+    <channel_dvblink_id>10630000</channel_dvblink_id>
+    <channel_name>MCM TOP HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>90</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10780000</channel_id>
+    <channel_dvblink_id>10780000</channel_dvblink_id>
+    <channel_name>MEZZO TV</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>95</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10730000</channel_id>
+    <channel_dvblink_id>10730000</channel_dvblink_id>
+    <channel_name>TV5MONDE FBS</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>96</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10880000</channel_id>
+    <channel_dvblink_id>10880000</channel_dvblink_id>
+    <channel_name>TV5MONDE</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>97</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10550000</channel_id>
+    <channel_dvblink_id>10550000</channel_dvblink_id>
+    <channel_name>EURONEWS</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>98</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10850000</channel_id>
+    <channel_dvblink_id>10850000</channel_dvblink_id>
+    <channel_name>ANIMAUX HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>100</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10800000</channel_id>
+    <channel_dvblink_id>10800000</channel_dvblink_id>
+    <channel_name>RMC DÉCOUVERTE HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>102</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10870000</channel_id>
+    <channel_dvblink_id>10870000</channel_dvblink_id>
+    <channel_name>PLANÈTE+ HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>105</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10790000</channel_id>
+    <channel_dvblink_id>10790000</channel_dvblink_id>
+    <channel_name>GULLI</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>140</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10810000</channel_id>
+    <channel_dvblink_id>10810000</channel_dvblink_id>
+    <channel_name>CARTOON NETWORK</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>141</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10840000</channel_id>
+    <channel_dvblink_id>10840000</channel_dvblink_id>
+    <channel_name>L’ÉQUIPE 21 HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>185</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10960000</channel_id>
+    <channel_dvblink_id>10960000</channel_dvblink_id>
+    <channel_name>CNN INTERNATIONAL</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>220</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10700000</channel_id>
+    <channel_dvblink_id>10700000</channel_dvblink_id>
+    <channel_name>BBC WORLD NEWS</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>221</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10760000</channel_id>
+    <channel_dvblink_id>10760000</channel_dvblink_id>
+    <channel_name>CNBC</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>230</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>11330000</channel_id>
+    <channel_dvblink_id>11330000</channel_dvblink_id>
+    <channel_name>I TELE HD</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>323</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10670000</channel_id>
+    <channel_dvblink_id>10670000</channel_dvblink_id>
+    <channel_name>RTP INTERNACIONAL</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>420</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10820000</channel_id>
+    <channel_dvblink_id>10820000</channel_dvblink_id>
+    <channel_name>Info Channel</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>696</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10620000</channel_id>
+    <channel_dvblink_id>10620000</channel_dvblink_id>
+    <channel_name>EPG</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>900</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+  <channel xmlns="http://www.dvblogic.com">
+    <channel_id>10690000</channel_id>
+    <channel_dvblink_id>10690000</channel_dvblink_id>
+    <channel_name>Horizon data</channel_name>
+    <channel_type>0</channel_type>
+    <channel_number>901</channel_number>
+    <channel_subnumber>0</channel_subnumber>
+  </channel>
+</channels>
