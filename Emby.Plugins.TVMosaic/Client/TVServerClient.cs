@@ -168,7 +168,7 @@ namespace TSoft.TVServer
 
             var urlbind = options.Version > 6 ? "stream" : "dvblink";
 
-            url += "/" + urlbind + "/direct?";
+            url += urlbind + "/direct?";
 
             url += $"client={clientId}";
             url += $"&channel={channelId}";
