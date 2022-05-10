@@ -151,14 +151,13 @@ namespace Emby.Plugins.TVMosaic
 
             Logger.Info(string.Format("Get Programs, retrieve all programs for ChannelId: {0}", tunerChannelId));
 
-            var programList = new List<ProgramInfo>();
             var request = new EpgRequest(tunerChannelId, startDateUtc.GetCurrentUnixTimestampOffsetSeconds(), endDateUtc.GetCurrentUnixTimestampOffsetSeconds());
 
             var result = await this._client.GetEpgAsync(request, tuner, config, cancellationToken).ConfigureAwait(false);
 
             var programs = result.Items.FirstOrDefault()?.Programs.Items ?? new List<Program>();
 
-            Logger.Info("Programs found for channel : {0} - {1}", tunerChannelId, programs);
+            Logger.Info("Programs found for channel : {0} - {1}", tunerChannelId, programs.Count);
 
             var list = new List<ProgramInfo>();
 
@@ -213,7 +212,7 @@ namespace Emby.Plugins.TVMosaic
                 {
                     program.Genres = new List<string>(item.Categories.ToString().Split('/'));
                 }
-                programList.Add(program);
+                list.Add(program);
             }
 
             foreach (var item in list)
