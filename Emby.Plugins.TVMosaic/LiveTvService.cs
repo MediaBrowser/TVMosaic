@@ -25,6 +25,7 @@ using TSoft.TVServer.Helpers;
 using MediaBrowser.Model.Entities;
 using Emby.Plugins.DVBLogic.Proxies;
 using MediaBrowser.Common.Net;
+using MediaBrowser.Common.Extensions;
 
 namespace Emby.Plugins.TVMosaic
 {
@@ -212,6 +213,12 @@ namespace Emby.Plugins.TVMosaic
                 {
                     program.Genres = new List<string>(item.Categories.ToString().Split('/'));
                 }
+
+                if (program.IsSeries)
+                {
+                    program.SeriesId = program.Name.GetMD5().ToString("N");
+                }
+
                 list.Add(program);
             }
 

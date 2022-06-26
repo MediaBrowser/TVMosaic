@@ -5,8 +5,8 @@
 		<AssemblyName>Emby.Plugins.TVMosaic</AssemblyName>
 		<Company>Emby Team</Company>
 		<Description>TVMosaic Live TV plugin for Emby</Description>
-		<AssemblyVersion>2.0.0.0</AssemblyVersion>
-		<FileVersion>2.0.0.0</FileVersion>
+		<AssemblyVersion>2.0.1.0</AssemblyVersion>
+		<FileVersion>2.0.1.0</FileVersion>
 	</PropertyGroup>
 	
 	<ItemGroup>
